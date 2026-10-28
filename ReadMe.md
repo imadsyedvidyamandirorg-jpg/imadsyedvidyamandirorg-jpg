@@ -74,10 +74,10 @@ I turn ideas into digital experiences — from modern websites to AI-powered pro
 
 <div align="center">
 
-**I don't just want to write code — I want to build things that matter.** 🚀
-<p>
-**Don't Be Better, Be Different.** 🚀
-</p>
-<sub>Thanks for stopping by. Explore my projects and follow along as I keep building.</sub>
+  <p><strong>I don't just want to write code — I want to build things that matter.</strong> 🚀</p>
+
+  <p><strong>Don't Be Better, Be Different</strong> 🚀</p>
+
+  <sub>Thanks for stopping by. Explore my projects and follow along as I keep building.</sub>
 
 </div>
