@@ -1,24 +1,82 @@
-# 💫 About Me:
-# Hey, I'm Imad Saiyed 👋<br><br>I'm a developer, creative thinker, and aspiring entrepreneur who loves turning ideas into real digital products.<br><br>I enjoy building websites, exploring AI technologies, experimenting with new tools, and creating projects that bring ideas to life. I'm always learning, building, and looking for new ways to make technology useful.<br><br>## 🚀 About Me<br><br>- 💻 I am a developer who enjoys building websites and digital products.<br>- 🤖 I am exploring AI and the possibilities of intelligent applications.<br>- 🛠️ I love experimenting with ideas and turning them into working projects.<br>- 📚 I believe in learning by building and improving with every project.<br>- 🌱 I am continuously learning, growing, and working toward bigger ideas.<br><br>## 🌟 Featured Projects<br><br>### 🔹 Glimpect AI<br><br>An AI-focused digital project built around my interest in creating modern technology experiences.<br><br>🌐 **Live Website:** [glimpectai.vercel.app](https://glimpectai.vercel.app/)<br><br>### 🏏 Cricketium<br><br>A cricket-focused digital project that reflects my interest in combining technology with the world of cricket.<br><br>🌐 **Live Website:** [cricketium.in](https://cricketium.in/)<br><br>## 💡 What I Love Building<br><br>- AI-powered applications<br>- Modern and responsive websites<br>- Creative digital products<br>- Useful tools that solve real problems<br>- Projects that combine technology, creativity, and entrepreneurship<br><br>## 🎯 My Goal<br><br>To keep learning, build products that people love using, and turn ambitious ideas into meaningful technology.<br><br>**I don't just want to write code — I want to build things that matter.** 🚀<br><br>---<br><br>⭐ Thanks for visiting my profile! Feel free to explore my projects and follow my journey as I build and learn.
+<div align="center">
 
+# Hey, I'm Imad Saiyed 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/damigamer32) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Imad Saiyed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imadsyedvidyamandirorg@gmail.com) 
+### Developer · AI Explorer · Product Builder
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=imadsyedvidyamandirorg-jpg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=imadsyedvidyamandirorg-jpg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=imadsyedvidyamandirorg-jpg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I turn ideas into digital experiences — from modern websites to AI-powered projects.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imadsyedvidyamandirorg-jpg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Glimpect AI](https://img.shields.io/badge/Explore-Glimpect_AI-7C3AED?style=flat-square)](https://glimpectai.vercel.app/)
+[![Cricketium](https://img.shields.io/badge/Explore-Cricketium-16A34A?style=flat-square)](https://cricketium.in/)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imadsyedvidyamandirorg-jpg&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=imadsyedvidyamandirorg-jpg&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 I build websites and digital products.
+- 🤖 I'm exploring AI and intelligent applications.
+- 🧪 I enjoy experimenting, learning by building, and improving through real projects.
+- 🎯 My goal is to create useful products that solve real problems.
+
+## 🧩 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ Glimpect AI</h3>
+      <p>An AI-focused project exploring modern digital experiences.</p>
+      <a href="https://glimpectai.vercel.app/">Visit website ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏏 Cricketium</h3>
+      <p>A cricket-focused digital project bringing my interests in technology and cricket together.</p>
+      <a href="https://cricketium.in/">Visit website ↗</a>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imadsyedvidyamandirorg-jpg&show_icons=true&hide_border=true&theme=transparent" alt="Imad's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadsyedvidyamandirorg-jpg&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=imadsyedvidyamandirorg-jpg&hide_border=true&theme=transparent" alt="GitHub streak stats" />
+</div>
+
+## 🌐 Find Me Online
+
+<p>
+  <a href="https://instagram.com/damigamer32"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:imadsyedvidyamandirorg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+<div align="center">
+
+**I don't just want to write code — I want to build things that matter.** 🚀
+**Don't Be Better, Be Different.** 🚀
+
+<sub>Thanks for stopping by. Explore my projects and follow along as I keep building.</sub>
+
+</div>
